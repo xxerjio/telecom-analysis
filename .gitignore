@@ -1,0 +1,8 @@
+# Archivos del sistema y metadatos
+.DS_Store
+Thumbs.db
+*Zone.Identifier
+
+# Entornos virtuales y cachés de Python
+__pycache__/
+.ipynb_checkpoints/
